@@ -17,8 +17,17 @@ December of 2020.
 - Java
 - Python
 - C++
-- a little bit of web scripts (html, css)
-  
+- html, css, node.js
+
+
+## Other Skills
+- Photoshop
+- Music Production
+- Video Editing
+
+
+## Extra Info
+Hobbies that I am into are playing music on piano and saxophone, and photography.
   
 ### I am looking to be involved in cool projects, as well as experience!
 
