@@ -2,8 +2,9 @@
 
 Hello!
 
-I my name is Kevin, and I am a senior studying at The University of Alabama at Birmingham.
-My goals are to gain knowledge of programming practices as well as to build creative apps.
+I my name is Kevin, and I am a senior studying Comuter Science at The University of 
+Alabama at Birmingham. My goals are to gain knowledge of programming practices as 
+well as to build creative apps.
 
 ## Experience
 I have knowledge in machine learning and app development, as well as basic programming
