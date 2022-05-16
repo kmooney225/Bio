@@ -18,7 +18,7 @@ December of 2020.
 - Python
 - C++
 - C#
-- html, css, node.js
+- html, css, javascript (node.js, react.js)
 
 
 ## Other Skills
